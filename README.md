@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Tola @etolaad
-- 👀 I’m interested in software development
-- 💞️ I’m looking to collaborate on Apps development
 - 📫 How to reach me: ttola2006@yahoo.com
 <!---
 etolaad/etolaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
